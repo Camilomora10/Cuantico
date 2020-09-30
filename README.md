@@ -18,6 +18,47 @@ El experimento de doble rendija (Crédito de la imagen: GIPhotoStock / Science P
 
 Si cambiamos un poco del sistema utilizando dos rendijas en teoría si nos ceñimos a los resultados anteriores pudimos predecir que se presentará el mismo patrón solo que en dos regiones por que la mitad de la dispersión total se trasladará a la otra rendija, sin embargo el resultado es totalmente diferente pues se da un patrón en cual las probabilidades no encajan para explicarlo tendremos que cambiar de un sistemas clásico a un sistemas cuántico. En la mecánica cuántica se puede predecir este patrón con la función de onda de Erwin Schrödinger que describe un campo en todos los puntos del espacio con números complejos, que posteriormente Niels Bohr descubrió que la norma al cuadrado de esos puntos obtenía otro campo capaz de predecir probabilisticamente el mundo cuántico.
 
+Ahora que sabemos predecir el patrón, podemos explicar mejor que pasa con variaciones del experimento para entender mejor los resultados anteriores un ejemplo es lo que pasa si de amplia o reduce la distancias entre rendijas, pues a pesar que se repite el patrón este sufre un cambio de distancias en las proyecciones, esto se debe a que la función de onda de Schrödinger que causa que el estado del sistema sufra superposición de estados (donde se acentúan las proyecciones) e interferencia con el cancelamiento de algunas proyecciones, no obstante la relación de la separación entre distancias de separación y proyección se debe a un entrelazamiento de estados que interpreta dicha distancia proectandose en los resultados
+
+* ## Experimento
+
+Para realizar la simulación del experimento se debe apuntar con un láser a la redija ya creada y montada, según lo observado se ve que el resultado se asemeja más al comportamiento de ondas con el patrón de interferencia. A continucacion te mostramos que necesitas para elaborar el experimento.
+**Materiales**
+* Un laser
+* Cinta aislante negra 
+* Cartulina blanca
+* Una aguja
+* Alambre
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/materiales.jpeg)
+
+**Pasos**
+
+* Colocamos un trozo alambre en la mitad del laser logrando el efecto de la doble rendija y con ayuda de la cinta aislante la sujetamos:
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/laser.jpeg)
+
+* Para la rendija con ayuda de la aguja cortamos el papel aluminio dos surcos para tener el efecto de doble rendija. Y la colocamos sobre una base para que no se mueva.
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/papel.jpeg)
+
+* Ahora preparamos una base con un altura muy similar a la que usamos con el papel aluminio. Y sujetamos el laser a esta.
+Tenga en cuenta que la luz del laser debe apuntar por los surcos que tiene el papel aluminio.
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/sistemas.jpeg)
+
+* Por ultimo Colocamos la cartulina en la dirreccion que apunta el laser, con el fin de que se pueda observar mejor el patron de interferencia.
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/cartulina.jpeg)
+
+* ## Resultado
+
+Acontinuacion el resultado es el de patrón de interferencia de las ondas que hallamos en nuestro experimento:
+
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/resultado1.jpeg)
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/resultado2.jpeg)
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/resultado3.jpeg)
+
 
 ## Pre-requisitos
 Para que puedas usar nuestra libreia de numeros complejos necesitaras un ordenador con caracteristicas adecuadas para ejecutar un lenguaje de programacion, ademas de un programa en el cual puedas usar el lenguaje de programacion, donde podras usar nuestras librerias.
