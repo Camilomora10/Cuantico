@@ -62,6 +62,10 @@ Acontinuacion el resultado es el de patrón de interferencia de las ondas que ha
 
 A continuación un vistazo con mas detalle sobre el experimento realizado, en el siguiente enlace:
 
+```
+https://www.youtube.com/watch?v=__paV0TRzA0
+```
+
 * ## Explicacion
 
 Para poder lograr entender el resultado del experimento en la época aplicaron el principio de superposición cuántico en el que dice que las partículas (en este caso la luz) puede dos o más valores de una determinada magnitud (su posición ) tambien conocida como "onda de posibilidades" que pasan por las dos ranuras para luego interferir con ella misma hasta que golpear la pared de impacto y que al ser monitoreado este se ve afectado a que se dice que este principio colapsa y solo lograremos observar una de todos los posibles resultados.
