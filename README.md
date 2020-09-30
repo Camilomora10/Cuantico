@@ -7,7 +7,7 @@ El experimento de la doble rendija se hizo con la intención de determinar si la
 El experimento de la doble rendija fue planteado originalmente en 1801 por Thomas Young y lo hizo con la intención de determinar si la luz se comportaba como onda o como partícula, actualmente este experimento se repoduce en una cámara oscura la cual deja entrar un haz de luz por una rendija estrecha, cuando la luz llega a una pared intermedia de dos rendijas, la luz debe pasar por alguna de estas dos y chocar con una placa que se encuentra después de la rendija.
 En la siguiente imagen se pude observar cómo es el comportamiento de las partículas en el experimento.
 
-![image](https://github.com/Camilomora10/Cuantico/blob/master/rendija.jpg)
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/rendija.jpg)
 
 * ## Explicacion
 
