@@ -74,7 +74,7 @@ Para poder lograr entender el resultado del experimento en la época aplicaron e
 
 Para las simulaciones utilizamos un modelo matemático basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería_sistema_cuantico en python que se encuentra en el repositorio de la siguiente direccion:
 ```
-https://github.com/Camilomora10/Tencologia-CNYT1
+https://github.com/Camilomora10/Cuantico.git
 ```
 También tendremos en cuenta la forma en el que el experimento se representara, entonces el sistema tendra una matriz asociada y a su vez un vector de estado inicial.
 A continuacio el Grafo del experimento:
