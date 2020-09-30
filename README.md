@@ -106,7 +106,7 @@ Para conocer el manejo de las librerias que mencionamos anteriorimente, dirigete
 https://github.com/Camilomora10/Tencologia-CNYT1
 ```
 
-## Versiones
+## Versiones Laboratorio
 
 * Version 1 Doble rendija. (Actual)
 
