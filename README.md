@@ -83,7 +83,7 @@ A continuacio el Grafo del experimento:
 
 A continuacio la matriz del experimento:
 
-![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/matriz.png)
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/matriz_sis.png)
 
 * ## Simulacion en  la libreria
 ```
