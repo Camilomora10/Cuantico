@@ -77,9 +77,10 @@ Para las simulaciones utilizamos un modelo matemático basado en los grafos del 
 https://github.com/Camilomora10/Cuantico.git
 ```
 También tendremos en cuenta la forma en el que el experimento se representara, entonces el sistema tendra una matriz asociada y a su vez un vector de estado inicial.
+
 A continuacio el Grafo del experimento:
 
-![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/grafo.png)
+![image](https://github.com/Camilomora10/Cuantico/blob/master/.idea/grafo_sis.png)
 
 A continuacio la matriz del experimento:
 
